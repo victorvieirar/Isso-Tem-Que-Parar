@@ -1,0 +1,113 @@
+@font-face {
+    font-family: 'Qanelas';
+    src: url('../fonts/Qanelas-Regular.otf');
+}@font-face {
+    font-family: 'Qanelas Italic';
+    src: url('../fonts/Qanelas-RegularItalic.otf');
+}@font-face {
+    font-family: 'Qanelas Medium';
+    src: url('../fonts/Qanelas-Medium.otf');
+}@font-face {
+    font-family: 'Qanelas Medium Italic';
+    src: url('../fonts/Qanelas-MediumItalic.otf');
+}@font-face {
+    font-family: 'Qanelas SemiBold';
+    src: url('../fonts/Qanelas-SemiBold.otf');
+}@font-face {
+    font-family: 'Qanelas SemiBold Italic';
+    src: url('../fonts/Qanelas-SemiBoldItalic.otf');
+}@font-face {
+    font-family: 'Qanelas Bold';
+    src: url('../fonts/Qanelas-Bold.otf');
+}@font-face {
+    font-family: 'Qanelas Bold Italic';
+    src: url('../fonts/Qanelas-BoldItalic.otf');
+}@font-face {
+    font-family: 'Qanelas Black';
+    src: url('../fonts/Qanelas-Black.otf');
+}@font-face {
+    font-family: 'Qanelas Black Italic';
+    src: url('../fonts/Qanelas-BlackItalic.otf');
+}@font-face {
+    font-family: 'Qanelas Heavy';
+    src: url('../fonts/Qanelas-Heavy.otf');
+}@font-face {
+    font-family: 'Qanelas Heavy Italic';
+    src: url('../fonts/Qanelas-HeavyItalic.otf');
+}@font-face {
+    font-family: 'Qanelas Light';
+    src: url('../fonts/Qanelas-Light.otf');
+}@font-face {
+    font-family: 'Qanelas Light Italic';
+    src: url('../fonts/Qanelas-LightItalic.otf');
+}@font-face {
+    font-family: 'Qanelas UltraLight';
+    src: url('../fonts/Qanelas-UltraLight.otf');
+}@font-face {
+    font-family: 'Qanelas UltraLight Italic';
+    src: url('../fonts/Qanelas-UltraLightItalic.otf');
+}
+
+.regular {
+    font-family: 'Qanelas';
+}
+
+.italic {
+    font-family: 'Qanelas Italic';
+}
+
+.medium {
+    font-family: 'Qanelas Medium';
+}
+
+.mediumi {
+    font-family: 'Qanelas Medium Italic';
+}
+
+.semibold {
+    font-family: 'Qanelas SemiBold';
+}
+
+.semiboldi {
+    font-family: 'Qanelas SemiBold Italic';
+}
+
+.bold {
+    font-family: 'Qanelas Bold';
+}
+
+.boldi {
+    font-family: 'Qanelas Bold Italic';
+}
+
+.black {
+    font-family: 'Qanelas Black';
+}
+
+.blacki {
+    font-family: 'Qanelas Black Italic';
+}
+
+.heavy {
+    font-family: 'Qanelas Heavy';
+}
+
+.heavyi {
+    font-family: 'Qanelas Heavy Italic';
+}
+
+.light {
+    font-family: 'Qanelas Light';
+}
+
+.lighti {
+    font-family: 'Qanelas Light Italic';
+}
+
+.ultralight {
+    font-family: 'Qanelas UltraLight';
+}
+
+.ultralighti {
+    font-family: 'Qanelas UltraLight Italic';
+}
